@@ -1,0 +1,11 @@
+C:\Users\mazatik\source\repos\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\mazatik\source\repos\TestProject\bin\Debug\TestProject.exe
+C:\Users\mazatik\source\repos\TestProject\bin\Debug\TestProject.pdb
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.exe
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.pdb
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.Menu.resources
+C:\Users\mazatik\source\repos\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
